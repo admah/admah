@@ -1,6 +1,6 @@
 ### Hello 👋
 
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=admah&show_icons=true&theme=gotham)
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=admah&count_private=true&show_icons=true&theme=gotham)
 
 
 <!--
